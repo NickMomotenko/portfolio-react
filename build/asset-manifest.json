@@ -13,7 +13,7 @@
     "static/css/main.4def843f.chunk.css.map": "/static/css/main.4def843f.chunk.css.map",
     "static/media/1.png": "/static/media/1.ecaecc5d.png",
     "static/media/2.png": "/static/media/2.1f933e6f.png",
-    "static/media/3.png": "/static/media/3.e516fd21.png",
+    "static/media/3.png": "../media/3.e516fd21.png",
     "static/media/MenuList.css": "/static/media/service.ce280852.jpg",
     "static/media/bicycle.png": "/static/media/bicycle.d5dc69aa.png",
     "static/media/build.png": "/static/media/build.b1b72d85.png",
